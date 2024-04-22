@@ -19,6 +19,30 @@ Statistics](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?cat
 
 ## Abstract
 
+This study investigates the potential correlation between race, income,
+and education level, with the extent of damage inflicted by Hurricanes’
+Katrina and Rita on Southern Louisiana households at the county level.
+Utilizing data from the U.S. Census Bureau and damage reports from FEMA,
+spatial statistical analyses were conducted to examine if
+sociodemographic differences influenced the severity of hurricane
+damage. The findings suggest that although socioeconomic and racial
+disparities are prevalent at the county level, they ultimately do not
+significantly correlate with the patterns of household damages observed.
+The study observed that the central counties of Southern Louisiana
+experienced the least amount of damage, while counties along the
+periphery faced more severe impacts. Our analysis includes regression
+models, choropleth maps, and Moran’s I tests to validate spatial
+autocorrelation, revealing a nuanced landscape of damage distribution.
+This challenges conventional assumptions about socioeconomic
+vulnerability, in the context of natural disasters. These results
+highlight the complexity of factors influencing disaster impacts, while
+underscoring the importance of considering a multitude of variables in
+the mitigation of disasterrelated damages. This study therefore
+contributes to the ongoing and demanding discussion on approaches to
+disaster response and recovery, by providing a detailed empirical
+analysis of the potential interrelations between race, income, and
+education attainment with hurricane damage outcomes.
+
 # Introduction
 
 Climate change is occurring at unprecedented rates posing great risks to
